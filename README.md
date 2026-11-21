@@ -7,15 +7,16 @@
 <h2>💻 Dev Full Stack em aprendizado</h2>
 <p>No momento estou graduado em ADS(Análise e Desenvolvimento de Sistemas), com foco na carreira Full Stack, tambem com bastante interesse pela area de CiberSegurança, manejando o tempo entre trabalho e estudos.</p>
 
-<h2>Projetos em destaque</h2>
-<a href="https://github.com/Math-GomesC/Interactive-rating-component">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-GomesC&repo=Interactive-rating-component&theme=tokyonight">
-</a>
-
-<a href="https://github.com/Math-GomesC/Frontend-Mentor-Advice-generator-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-GomesC&repo=Frontend-Mentor-Advice-generator-app&theme=tokyonight">
-</a>
-
+<h2>📂Projetos em destaque✨</h2>
+<div align="center">
+  <a href="https://github.com/Math-GomesC/Interactive-rating-component">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-GomesC&repo=Interactive-rating-component&theme=tokyonight">
+  </a>
+  
+  <a href="https://github.com/Math-GomesC/Frontend-Mentor-Advice-generator-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Math-GomesC&repo=Frontend-Mentor-Advice-generator-app&theme=tokyonight">
+  </a>
+</div>
 <h2>🛠️ Tecnologias e ferramentas</h2>
 <p align="center">
   <a href="https://skillicons.dev">
