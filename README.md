@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Matheus</h1>
+<h1 align="center">😊Olá, me chamo Matheus👋</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%" alt="Banner do perfil">
@@ -9,8 +9,9 @@
 
 
 <h2>🛠️ Tecnologias e ferramentas</h2>
-<ul>
-  <li><img src="https://www.w3.org/html/logo/"></li>
-  <li>Segundo item</li>
-  <li>Terceiro item</li>
-</ul>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,bash,linux,mint,postman,vite,vscode" />
+  </a>
+</p>
+
